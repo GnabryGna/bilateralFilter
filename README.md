@@ -1,2 +1,3 @@
-Bilateral Filter 직접 구현
+Digital Image Processing
+Bilateral Filter 구현했습니당
 
